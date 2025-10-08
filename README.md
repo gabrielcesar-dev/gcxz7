@@ -19,7 +19,6 @@
   <a href="https://github.com/gabrielcesar-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gabrielcesar-dev&color=7B68EE&style=for-the-badge" alt="Contador de Visitas do Perfil"/>
 </p>
 
 ---
@@ -28,7 +27,7 @@
 
 | Projeto | Descrição |
 |----------|------------|
-| **Bot de Agendamentos com IA (Gemini)** | Chatbot full-stack para agendamentos médicos, utilizando a API do **Google Gemini** para processamento de linguagem natural. <br> **Tecnologias:** FastAPI, Python, MongoDB, Next.js, Gemini SDK. <br> [Repositório](https://github.com/gabrielcesar-dev/ChatBot-Agente-M-dica) |
+| **Bot de Agendamentos com IA (Gemini)** | Chatbot full-stack para agendamentos médicos, utilizando a API do **Google Gemini** para processamento de linguagem natural. <br> **Tecnologias:** FastAPI, Python, MongoDB, Next.js, Gemini SDK. <br> [Repositório](https://github.com/gabrielcesar-dev/ChatBot-Agenda-M-dica) |
 | **Task Tracker** | Aplicação full-stack de gerenciamento de tarefas com autenticação segura, notas, deadlines e ordenação por prioridade. <br> **Tecnologias:** React, TypeScript, Node.js, Express, MongoDB, Zustand. <br> [Repositório](https://github.com/gabrielcesar-dev/task-tracker) |
 | **IFBShare** | Plataforma colaborativa para compartilhamento de materiais acadêmicos, com autenticação e upload de arquivos. <br> **Tecnologias:** React, Node.js, Express, MongoDB, Chakra UI, Zustand. <br> [Deploy](https://ifbshare-front.vercel.app) |
 
