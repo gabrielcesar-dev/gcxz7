@@ -28,7 +28,7 @@
 
 | Projeto | Descrição |
 |----------|------------|
-| **Bot de Agendamentos com IA (Gemini)** | Chatbot full-stack para agendamentos médicos, utilizando a API do **Google Gemini** para processamento de linguagem natural. <br> **Tecnologias:** FastAPI, Python, MongoDB, Next.js, Gemini SDK. <br> [Repositório](https://github.com/gabrielcesar-dev/ChatBot-Agend) |
+| **Bot de Agendamentos com IA (Gemini)** | Chatbot full-stack para agendamentos médicos, utilizando a API do **Google Gemini** para processamento de linguagem natural. <br> **Tecnologias:** FastAPI, Python, MongoDB, Next.js, Gemini SDK. <br> [Repositório](https://github.com/gabrielcesar-dev/ChatBot-Agente-M-dica) |
 | **Task Tracker** | Aplicação full-stack de gerenciamento de tarefas com autenticação segura, notas, deadlines e ordenação por prioridade. <br> **Tecnologias:** React, TypeScript, Node.js, Express, MongoDB, Zustand. <br> [Repositório](https://github.com/gabrielcesar-dev/task-tracker) |
 | **IFBShare** | Plataforma colaborativa para compartilhamento de materiais acadêmicos, com autenticação e upload de arquivos. <br> **Tecnologias:** React, Node.js, Express, MongoDB, Chakra UI, Zustand. <br> [Deploy](https://ifbshare-front.vercel.app) |
 
